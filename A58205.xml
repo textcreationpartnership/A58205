@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Readers speech of the Middle-Temple, at the entrance into his reading, Febr. 29, 1663/4 upon the statute of Magna Charta, Cap. 29.</title>
+            <author>Reader.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58205</idno>
+            <idno type="STC">Wing R441</idno>
+            <idno type="STC">ESTC R24507</idno>
+            <idno type="EEBO-CITATION">08224373</idno>
+            <idno type="OCLC">ocm 08224373</idno>
+            <idno type="VID">41109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Readers speech of the Middle-Temple, at the entrance into his reading, Febr. 29, 1663/4 upon the statute of Magna Charta, Cap. 29.</title>
+                  <author>Reader.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Bedell and T. Collins,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 14.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Magna Carta.</term>
+               <term>Constitutional history --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41109:1"/>
+            <pb facs="tcp:41109:1"/>
+            <p>THE READERS SPEECH OF THE Middle-Temple.</p>
+            <p>At the Entrance into his Reading, FEBR. 29. 1663/4.</p>
+            <p>Upon the STATUTE of Magna Charta, CAP. 29.</p>
+            <q>
+               <hi>Bono ſervire principi optima libertas.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Bedell,</hi> and <hi>T. Collins,</hi> and are to be ſold at their Shop, at the <hi>Middle-Temple-Gate</hi> in <hi>Fleetſtreet.</hi> 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:41109:2"/>
+            <pb n="1" facs="tcp:41109:2" rendition="simple:additions"/>
+            <head>THE READERS SPEECH OF THE Middle-Temple.</head>
+            <opener>
+               <salute>May it pleaſe your Maſterſhips and Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Enſible I am of my much unfitneſs for this Exerciſe.</hi>
+            </p>
+            <p>
+               <hi>Arguments I have us'd, many, to their Maſterſhips, that they would pleaſe to ſecure their own, and your honour, by a more pregnant choice.</hi>
+            </p>
+            <p>
+               <hi>What prevailed not with their Wiſdoms to excuſe, may it with your Candors to interpret mildly.</hi>
+            </p>
+            <p>Firſt, <hi>My Memory is in diſorder for want of uſe at the Bar, whence I was excluded Fourteen Years.</hi>
+            </p>
+            <p>Next, <hi>My Limbs are disjointed by the Gowt, a diſtemper I contracted by the lazineſs of a long and cloſe impriſonment.</hi>
+            </p>
+            <p>
+               <hi>My Eſtate has been impaired by Sequeſtration, Decimation, and thoſe other ſufferings which deeplieſt oppreſt Members, who withdrew to</hi> OXFORD.</p>
+            <p>
+               <hi>Scandal'd alſo I have been, and ſo was</hi> Jeſus Chriſt, <hi>and ſo are</hi> many <hi>more, both</hi> Great <hi>and</hi> Good, (becauſe they are ſo) <hi>I have hopes as they to conquer it by Contempt; If not, by</hi> Moderation; <hi>yet that's my</hi> Crime.</p>
+            <p>
+               <hi>As for my Ambition to be Great, I aſſure you 'tis no leſs than my deſert and hopes, and thats</hi> None at all.</p>
+            <p>
+               <hi>Theſe Conſiderations, as they diſcouraged, ſo they inclined me now in Age,</hi> when the Clouds return after the Rain, <hi>and the</hi> ſtrong men bowe, <hi>to a retired life.</hi>
+            </p>
+            <pb n="2" facs="tcp:41109:3"/>
+            <p>BUT were it that <hi>Fate</hi> which has hitherto doom'd me to a <hi>ſuf<g ref="char:EOLhyphen"/>fering</hi> condition, or a miſtake in their Maſterſhips of ſome <hi>abilities</hi> in me, which I know not, to the work I muſt, and which is worſe, by anothers fayler, a <hi>full year</hi> before my courſe.</p>
+            <p>Next to <hi>Obedience,</hi> That which diſpoſed me moſt, was a due ſenſe of the <hi>Debt</hi> which we all in courſe owe to the <hi>Society.</hi>
+            </p>
+            <p>A Society at this day obſerved to be highly Civil, Generous and <hi>Gentile, Nobilium Filii;</hi> of which extraction, ſays <hi>Forteſcue</hi> and <hi>Fern,</hi> perſons ought to be, that have the honour to be <hi>here</hi> admitted; A <hi>lower</hi> breed being not proportionate to the <hi>ayre</hi> and <hi>ingenuity</hi> of this profeſſion.</p>
+            <p>A Society ſo proſperous upon account of <hi>Learning,</hi> that a meſſe of our chief Maſters are worthily advanc't for it to offices of ho<g ref="char:EOLhyphen"/>nour, and we have in view a <hi>flouriſhing</hi> recruit to improve the ſplen<g ref="char:EOLhyphen"/>dour of this Exerciſe, and with it the Government.</p>
+            <p>And ſo hopeful in the fair <hi>branches</hi> growing up, that I have confi<g ref="char:EOLhyphen"/>dence to aver, you will no way derogate from the <hi>Glory</hi> of your Predeceſſors, whoſe <hi>Arms</hi> and <hi>Trophies</hi> you cannot but behold, if you look <hi>up</hi> to <hi>Heaven.</hi>
+            </p>
+            <p>A debt ſo honourable, ſo juſt, though I engaged to others, I reſol<g ref="char:EOLhyphen"/>ved to pay, though perhaps not in <hi>weight,</hi> yet in <hi>number:</hi> And what is <hi>light,</hi> I have hopes may be ſupplied by that <hi>weighty</hi> indulgence of their Maſterſhips, favourably to interpret my endeavours with reſpet to my <hi>ſufferings,</hi> and <hi>ſurprize.</hi>
+            </p>
+            <p>And that Gentlemen, from <hi>you,</hi> and perſons of your deep Reaſon, I demand, as a due to <hi>Juſtice,</hi> and I ſhall return you an acknowledg<g ref="char:EOLhyphen"/>ment as a due to <hi>Civility.</hi>
+            </p>
+            <p>Where Excuſes, you'l ſay, are ſo <hi>near,</hi> Errors uſually are not <hi>far,</hi> nor indeed are mine.</p>
+            <p>Troth 'tis, I had advanc't a Statute more <hi>uſeful</hi> in order to con<g ref="char:EOLhyphen"/>veyancing, but time ſtraitning me, I found it too <hi>laborious.</hi>
+            </p>
+            <p>Whereupon upon this <hi>Law</hi> I fix't, having ſomewhat ponder'd it in the late Troubles that diſputed it, which ſoon wiping off the <hi>gloſs</hi> and <hi>varniſh</hi> of pretences, made it demonſtrative, That it is not only <hi>Duty,</hi> but <hi>Intereſt</hi> to build high upon the <hi>old</hi> foun<g ref="char:EOLhyphen"/>dation.</p>
+            <pb n="3" facs="tcp:41109:3"/>
+            <p>You have here a Stature, which proclaims <hi>Liberty</hi> to the Engliſh Subject; a liberty as far tranſcending that Impoſture of a <hi>Free State,</hi> as the glory of the <hi>Sun,</hi> the Prodigy of a <hi>Comet.</hi>
+            </p>
+            <p>That Comet which our <hi>great Stateſman</hi> prudently obſerved, to have influenc'd mens ſpirits into the late Confuſions.</p>
+            <p>Confuſion unavoidably incident to that Modell, without <hi>Wars</hi> or <hi>Garriſons;</hi> Wars to <hi>keep up</hi> the great ones from falling down; Gar<g ref="char:EOLhyphen"/>riſons to <hi>keep down</hi> the leſſer from riſing up.</p>
+            <p>Where no King is, there can be no Honour, no Degrees; and where <hi>all</hi> are equal, <hi>every</hi> man thinks himſelf as fit to rule as <hi>any,</hi> and will put for all.</p>
+            <p>Therefore ſubſiſts it only, where there is a <hi>Head-City,</hi> to give name to it, to awe and tax the adjacent Country, as of old, <hi>Rome, Carthage, Athens;</hi> with us, <hi>
+                  <g ref="char:V">Ʋ</g>enice, Geneva, Raguſa,</hi> nay and the <hi>Swiſſe,</hi> and fatal <hi>Netherlands,</hi> who are united and ſecured by a <hi>con<g ref="char:EOLhyphen"/>federacy</hi> of Garriſons, and thoſe chiefly manag'd by <hi>no Gentry.</hi>
+            </p>
+            <p>Hence is it, that <hi>England</hi> is inconſiſtent with that fiction, as well regard of ſcituation, being a large continent, not to be denominated or awable by <hi>one City,</hi> as of the brave and ſprightly temper of the <hi>Gen<g ref="char:EOLhyphen"/>try,</hi> not to be inſlaved by Mechanicks.</p>
+            <p>Peruſe our Chronicles, and there ſhall we read, that the Engliſh are <hi>Gens inclyta belli, audax &amp; impatiens froeni;</hi> but in their higheſt tumults, not in the leaſt diſpos'd to alter <hi>Kingſhip;</hi> not then, when they bandied <hi>Crowns,</hi> as we do Tennis balls into <hi>Croſſe Hazard;</hi> no, not when the <hi>Smith Flammock, Wat</hi> the <hi>Tyler,</hi> or <hi>Jack Straw</hi> re<g ref="char:EOLhyphen"/>vell'd it with their Clowns.</p>
+            <p>Did you not mark? when our late Riders, like Sots in <hi>Drink,</hi> reel'd from this to that, the unpliant <hi>Genius</hi> of the Nation (which will carry things in the long <hi>Run</hi>) enforc'd their giddy <hi>Heads</hi> to a <hi>ſtand,</hi> even <hi>where</hi> we ſtood at <hi>firſt;</hi> even there, where now we <hi>ſtand;</hi> And ſome that dar'd not ſtand it, to <hi>ſtand higher.</hi>
+            </p>
+            <p>Don't you believe, that it was the <hi>courage</hi> of this Party, the <hi>contri<g ref="char:EOLhyphen"/>vance</hi> of that, or that <hi>compliance</hi> of a third! no it was the general <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> and <hi>Genius</hi> of the Nation, that brought home the <hi>King,</hi> and it had an influence dextrous, and powerful, and yet inviſible.</p>
+            <p>Was it not ſtrange! While the factions quarrell'd among them<g ref="char:EOLhyphen"/>ſelves who ſhall have the <hi>Rule,</hi> the <hi>King</hi> muſt be call'd in to ſave <hi>them</hi> againſt <hi>themſelves,</hi> and to take the <hi>Rule.</hi>
+            </p>
+            <p>He that was their <hi>fear,</hi> muſt become their <hi>Refuge;</hi> Peace with the King, brings peace among <hi>themſelves;</hi> yea, and with <hi>all</hi> the world, and Parliaments, as at the <hi>firſt,</hi>
+            </p>
+            <pb n="4" facs="tcp:41109:4"/>
+            <q>Pacatumque regit patriis virtutibus orbem;</q>
+            <p>
+               <hi>Proh Dii!</hi> Not one drop of blood runs out in the whole tranſacti<g ref="char:EOLhyphen"/>on, but only in the <hi>clar ſtream</hi> of Juſtice, and that adminiſtred in ſuch a <hi>ſtood</hi> of mercy, as deſign'd rather to vindicate and <hi>purge</hi> Reli<g ref="char:EOLhyphen"/>gion from that <hi>putrid ſtain</hi> of <hi>King-killing,</hi> than to inflict vengeance on the Workers of Iniquity.</p>
+            <p>If then his Enemies have cauſe, much more have his Friends to cry <q>GOD SAVE THE KING.</q>
+            </p>
+            <p>I ſtir not this to reflect, for I abhor it; but to evidence, not only their <hi>diſloyalty</hi> and <hi>lewd</hi> conſcience, but their <hi>folly,</hi> that conſpire a Change, capable of no other iſſue but their own <hi>deſtruction.</hi>
+            </p>
+            <p>And that not only in their <hi>eſtates</hi> and <hi>perſons,</hi> but even in that <hi>li<g ref="char:EOLhyphen"/>berty</hi> which they ſo much labour.</p>
+            <p>For were it a <hi>ſcelus prosperum</hi> inſtead of Liberty, which from this <hi>Statute</hi> for four Centuries under <hi>Kingſhip</hi> we have proſperouſly en<g ref="char:EOLhyphen"/>joy'd, nay improv'd; they advance only the luſts of ſome few, that get next in the Saddle, who were heretofore not <hi>un-ominouſly</hi> in<g ref="char:EOLhyphen"/>ſtil'd <hi>Cuſtodes libertatis;</hi> for they took ſo much <hi>liberty</hi> to them<g ref="char:EOLhyphen"/>ſelves, that they left <hi>none</hi> to other.</p>
+            <p>Liberty <hi>ſage</hi> men covet, as well as <hi>factious;</hi> not that liberty for every man to do that <hi>which is right in his own eys,</hi> as it was when there was <hi>no King in Iſrael;</hi> for that liberty, as it occaſiond the <hi>Levite</hi> to quarter out his <hi>Concubine,</hi> &amp; ſcatter it among the Tribes, to take re<g ref="char:EOLhyphen"/>venge, ſo makes it every man a <hi>ſlave</hi> to him that has the <hi>longeſt ſword.</hi>
+            </p>
+            <p>True liberty is that, where the <hi>Rules</hi> of <hi>Law</hi> ſquare out a man his <hi>right;</hi> where the Law <hi>spurs</hi> on the good<g ref="char:punc">▪</g> and <hi>reins</hi> in the evil; where a mans <hi>Houſes</hi> is his <hi>Caſtle,</hi> becauſe the Law is his <hi>Guard,</hi> and ſo is it of his <hi>Goods,</hi> neither to be aſſail'd without his own conſent, in <hi>perſon,</hi> or by <hi>proxy.</hi>
+            </p>
+            <p>Of liberty in this ſenſe, (where of the juſt and honeſt, as <hi>Cato</hi> ſays, are only capable) my Statute <hi>exalts</hi> to the Engliſh a proportion more <hi>triumphant,</hi> than the freeſt State; yea, then that goodly one, which was begot out of the <hi>mud,</hi> and brought forth the <hi>freedome</hi> of Exciſe; where <hi>free</hi> indeed they are, but it is in <hi>purſe,</hi> who exciſe their very <hi>Pot-herbs</hi> before they eat them.</p>
+            <p>Our liberty is <hi>built</hi> ſo <hi>high,</hi> that it cannot ſtand <hi>firm</hi> unleſs it be prop't up by Lords <hi>Spiritual,</hi> Lords <hi>Temporal,</hi> and
+<pb n="5" facs="tcp:41109:4"/>
+               <hi>Commons; Conſulere,</hi> and <hi>conſentire,</hi> and a Soveraign, with a <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> roy le veul</hi> to enforce; If thoſe <hi>ſupporters</hi> fail, <hi>Suis &amp; ipſa viribus ruit,</hi> this rich Fabrick ſinks with its own weight: For it ſo harmo<g ref="char:EOLhyphen"/>niouſly intermixes the rights of Soveraignty with the liberty of the Subject, that the one ballances the other, nay, the leaſt jarr in the <hi>one,</hi> makes a loud diſcord in the <hi>other.</hi>
+            </p>
+            <p>
+               <hi>Lex facit ut ipſe ſit Rex,</hi> ſays <hi>Bracton</hi> well, and 'tis ſaid as well, <hi>Imperii majeſtas eſt tutelae ſalus,</hi> The ſupport of power and awe in Majeſty, ſecures peace and ſafety to the people.</p>
+            <p>The unſteddy vulgar are not to be entruſted with their <hi>own ſecuri<g ref="char:EOLhyphen"/>ty,</hi> without a check; 'Tis for their advantage to be rid with a <hi>ſtrait bridle,</hi> ſo that bridle be the <hi>Law;</hi> If the <hi>reins</hi> of Soveraignty and the Law be let <hi>looſe,</hi> like head-ſtrong <hi>Colts,</hi> they ll run croſs-ways till they <hi>bogg</hi> themſelves, or <hi>fall;</hi> or if they get free, the next that comes <hi>impounds</hi> or <hi>backs</hi> them.</p>
+            <p>If the <hi>Logick</hi> of this were <hi>diſcreetly</hi> preſt, it might ſtead the King of <hi>England</hi> in this <hi>Knowing</hi> Age, perhaps no leſſe, than the <hi>Divinity</hi> we hear of the rights of the Kings of <hi>Iſrael.</hi>
+            </p>
+            <p>I have a home proofe, but it is a ſad one, when our late <hi>good King</hi> in his pious hopes of a cloſure, let go his radical and inherent power to diſſolve the Parliament; thereby unwarily advancing two powers co-orinate, as <hi>two Gods in Heaven,</hi> whoſe croſſe wills muſt needs enflame the <hi>Earth.</hi>
+            </p>
+            <p>Which breach in that <hi>weighty</hi> fundamental, let <hi>looſe</hi> the Govern<g ref="char:EOLhyphen"/>ment, and let in a <hi>deluge</hi> of miſery upon <hi>us</hi> his Subjects, as well as up<g ref="char:EOLhyphen"/>on <hi>His Crown.</hi>
+            </p>
+            <p>Without which Sarcaſm in policy, our Laws are ſo <hi>regular,</hi> that a Civil War could not <hi>ſwell</hi> up to that length, or height, nor could this Statute, and with it, Liberty be ſo <hi>ore-flown,</hi> as it was, (we know the time) when the enforcing it by ſome learned ones that now <hi>ſit high on the Bench,</hi> enforc'd them to lie <hi>low</hi> in the <hi>Tower.</hi>
+            </p>
+            <p>But now that we have a Soveraign, who knows and builds his Government upon his and our true intereſt, <hi>the Law,</hi> and which he has pleas'd ſo far to honour, as to give this Exerciſe <hi>His Royal pre<g ref="char:EOLhyphen"/>ſence,</hi> I am emboldned to <hi>awaken</hi> this Statute, which has ſo long <hi>ſlept,</hi> and therein to evidence his Majeſties <hi>indulgence,</hi> and our <hi>happineſſe,</hi> by way of explanation.</p>
+            <p>In order whereunto, give me leave a little to ramble into <hi>Hiſtory,</hi> and perhaps the <hi>length</hi> of the <hi>Journey</hi> will be recompenc'd by the <hi>goodneſſe</hi> of the <hi>way.</hi>
+            </p>
+            <pb n="6" facs="tcp:41109:5"/>
+            <p>Some reach the Pedigree of this Stature from the old <hi>Britans,</hi> o<g ref="char:EOLhyphen"/>thers from a mixture with the <hi>Saxons;</hi> I take the Original like that of <hi>Nilus,</hi> dark and uncertain, or rather as a flowing in of <hi>ſeveral</hi> ſtreams into one grand <hi>Channel.</hi>
+            </p>
+            <p>The <hi>Heptarchye</hi> being reduced under one Government, by that flout Prince <hi>Edbert,</hi> the <hi>Weſt Saxon</hi> (be it recorded to the glory of our <hi>Weſt</hi>) and our <hi>St. King Edward</hi> in time ſucceeding to the whole, He, with the Advice of his wife Men, cauſed one Volume, <hi>Ex immenſa legum congerie,</hi> as <hi>Hoveden</hi> has it, out of all their Laws to be compil'd, <hi>Optima quaeque elegit,</hi> ſayes <hi>Gemitencis,</hi> which ſeemed moſt equal and indifferent, <hi>Quos vocari voluit communem legem;</hi> And thoſe he injoin'd to be obſerved through the whole as his own Law.</p>
+            <p>King <hi>Edward</hi> dying chaſte, though married, and <hi>Edgar</hi> his Heir an Out-law, <hi>William</hi> of <hi>Normandy</hi> makes Title to the Crown, as Couſin to the Confeſſor, and diſpoſed by his will, and that appointment ratified by the <hi>Oath</hi> of the Nobility.</p>
+            <p>And to keep fair with the Clergy, he proffers to refer his Right to the Arbitration of the <hi>Pope,</hi> whoſe Decrees in thoſe dayes were Oracles.</p>
+            <p>
+               <hi>Harold</hi> ſlights the Arbitration; and ſo at <hi>Rome</hi> from the Pope, he obtains a ſentence for his Title as more <hi>pregnant</hi> than that of <hi>Ha<g ref="char:EOLhyphen"/>rold,</hi> who, <hi>Sine Eccleſiaſtica Authoritate,</hi> ſayes <hi>Hoveden,</hi> and againſt his Oath given to Duke <hi>William,</hi> had uſurp't the Crown.</p>
+            <p>This diſpute determines at one Battel, but it was a bloody one, there being a carnage of Sixty thouſand men, as the Monks re<g ref="char:EOLhyphen"/>port it; And the Duke, <hi>Potentiam ex vulgi adulatione quaerens, ſimulque magnifica pollicitus,</hi> diſclaims Conqueſt, and taking his Oath to continue the good Laws of his Couſin the Confeſſor, with free applauſe, <hi>Rex declaratur,</hi> is accepted King; as Mr. <hi>Selden</hi> notes upon <hi>Edmerus.</hi>
+            </p>
+            <p>And that the people might the better obſerve their duty, and the King his Oath, he cauſed <hi>Twelve</hi> of the moſt <hi>diſcreet men</hi> in every Shire to be ſworn, that without ſwerving either <hi>ad dextram,</hi> or <hi>ſiniſtram;</hi> that is, <hi>nec Prerogativae blandientes, nec Privilegia dilatantes,</hi> they ſhould lay open <hi>ſanctitatem,</hi> the integrity of their Laws; nothing adding, nothing concealing; <hi>Nil prevaricando mit<g ref="char:EOLhyphen"/>tentes;</hi> ſo writes <hi>Hoveden.</hi>
+            </p>
+            <p>And <hi>Aldred</hi> the Arch-biſhop that Crowned him, and the Biſhop of <hi>London,</hi> by the Kings Command, wrote that which the <hi>Jurats</hi>
+               <pb n="7" facs="tcp:41109:5"/>had delivered, and theſe, and ſayes <hi>Ingulphus</hi> his Secretary, made Abbot of <hi>Crowland,</hi> He proclaims to be Authentick, and for ever to be <hi>inviolabiliter</hi> obſerved.</p>
+            <p>The Sum of this he compos'd, as Sir <hi>Edw. Cook</hi> conjectures in the Preface to his 8th. Reperit. into ſome form of a <hi>Charter,</hi> clo<g ref="char:EOLhyphen"/>ſing it with this General, That all men duly keep the Laws of <hi>Good King Edward.</hi>
+            </p>
+            <p>Some Laws indeed of his own he added for the advantage of his <hi>Normans,</hi> which, ſayes <hi>Gervaſe</hi> of <hi>Tilbury,</hi> were <hi>Effficaciſſimae ad pacem regni faciendam;</hi> though others ſay, They were ſome<g ref="char:EOLhyphen"/>what too ſevere upon the Natives, the better to make room for a new Plantation.</p>
+            <p>
+               <hi>Dangelt</hi> an exaction not clear'd from the Crown he Releaſes;</p>
+            <p>The Juriſdiction <hi>Eccleſiaſtical</hi> and <hi>Civil,</hi> this King alſo ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ver'd; for before his Reign, the <hi>Biſhop</hi> and the Earle, or their De<g ref="char:EOLhyphen"/>putites, ſate jointly in the <hi>Counties,</hi> determining <hi>spiritual</hi> Cauſes in the Forenoon, and <hi>ſecular</hi> in the Afternoon, according to the pattern of the Jewiſh <hi>Sanhedrim,</hi> which was imitated by the Chri<g ref="char:EOLhyphen"/>ſtians in times <hi>primitive;</hi> The Apoſtles and Elders which were no other than Lay-Magiſtrates, deciding all controverſies among Chri<g ref="char:EOLhyphen"/>ſtians, who <hi>voluntary</hi> ſubmitted to their judgment; for this ſee the <hi>Gloſſary,</hi> 315. <hi>Lambert,</hi> 80. and Mr. <hi>Selden</hi> on <hi>Edmerus,</hi> 166. and Hiſtory of <hi>Tyths, chap.</hi> 14.</p>
+            <p>'Tis only to be wiſh't, that he had diſtinguiſht their <hi>Cauſes,</hi> as he divided their <hi>Courts;</hi> for that omiſſion has occaſion'd thoſe juſt<g ref="char:EOLhyphen"/>lings of Juriſdiction which have ſince hapned between the Eccleſiaſti<g ref="char:EOLhyphen"/>cal Courts, and the Courts and Common Law.</p>
+            <p>But more violent was this Conflict, till by a <hi>Canon</hi> of the Coun<g ref="char:EOLhyphen"/>ſel of <hi>Clarendon,</hi> it was decreed, That <hi>Regis juſticiarius mittet in cu<g ref="char:EOLhyphen"/>riam ſanctae Eccleſiae ad videndum quo modo res ibi tractatur;</hi> The ground of Prohibitions; <hi>Mat. Paris. An.</hi> 1164.</p>
+            <p>This the Clergy endeavoured to qualifie by <hi>Petition</hi> in Parliament, 5.1. <hi>Ed.</hi> 3. <hi>nu.</hi> 83. But thereto the King anſwered, that he could not depart with his right. 4. <hi>Juſt.</hi> 339.</p>
+            <p>King <hi>William</hi> in this Act deſigned a more regular diſpatch of Cau<g ref="char:EOLhyphen"/>ſes; and indeed as <hi>Pictavienſis</hi> ſayes, he was a Prince of Courage, <hi>Spectaculum delectabile, ſimul &amp; terribile:</hi> He was, ſayes <hi>Matthew Paris, Subjectis humilis,</hi> but <hi>Rebellibus inexorabilis,</hi> and deſerves a memory in our Chronicles more illuſtrious; for though his <hi>Nor<g ref="char:EOLhyphen"/>mans</hi> at his new eſtabliſhment importun'd him to connive at ſome
+<pb n="8" facs="tcp:41109:6"/>oppreſſions, yet the Law held out <hi>in title;</hi> And then, may we in<g ref="char:EOLhyphen"/>terpret the <hi>miſtakes</hi> of a Prince, to be his <hi>neceſſity,</hi> or at leaſt but as a <hi>ſtep</hi> out of the way to avoid the <hi>Dirt;</hi> manifeſting that he is but <hi>Man,</hi> and not more priviledged from <hi>Infirmity,</hi> than his Sub<g ref="char:EOLhyphen"/>jects.</p>
+            <p>Little of good fame (a revenge which bad Princes after their deaths cannot provide againſt) in <hi>Rufus</hi> his Son have we upon <hi>Record;</hi> for then ſayes <hi>Paris,</hi> were their <hi>Malae conſuetudines &amp; exactiones injſtae;</hi> And this appears by that great Charter of his ſuc<g ref="char:EOLhyphen"/>ceeding Brother <hi>King Henry the Firſt,</hi> who, ſayes <hi>Hoveden,</hi> thoſe evil cuſtoms <hi>penitus abrogavit,</hi> and reſtor'd to oppreſt <hi>England,</hi> the Laws of good King <hi>Edward;</hi> with thoſe emendations which his Father had added by the Counſel of his <hi>Barons;</hi> ſo <hi>Florentius,</hi> and <hi>Malmsbury.</hi> King <hi>Stephen</hi> by his Charter confirms the good Laws which King <hi>Henry</hi> his Uncle had before granted, with thoſe of good King <hi>Edward,</hi> and enjoins, ſayes <hi>Roger Bacon</hi> in his Book <hi>De impedimentis ſcientiae,</hi> That none of the Laws of <hi>Italy,</hi> the Imperial Laws ſhould be retain'd; <hi>Henry the Second</hi> ratifies the ſame Charter; He grants what his Grandfather King <hi>Henry</hi> had granted, and remits what he had remitted.</p>
+            <p>King <hi>John</hi> diſputes it with his Nobles, but was prevaild with in the Seventeenth year of his Reign, to contract thoſe former general Charters into one <hi>Grand</hi> one, and this ſayes the Monck of St. <hi>Al<g ref="char:EOLhyphen"/>bons, Ex parte maxima, leges antiquas &amp; regni conſuetudines cor<g ref="char:EOLhyphen"/>tinebat,</hi> Paris 246.</p>
+            <p>But King <hi>John</hi> being (as the Moncks report him) of an unſted<g ref="char:EOLhyphen"/>dy ſpirit, recalls his Charter, when the <hi>Normans</hi> being ingrafted into the Engliſh Nobility, and inheritable as they thought to the Engliſh freedom, conteſt it with their Prince, and pray in aid of <hi>Lewis</hi> the French Kings Son; by whoſe powers King <hi>John</hi> being worſted, he dyes, being poyſoned, as is ſuppoſed, in a Chalice. He left his Heir of the Age of Eleven years, whoſe <hi>innocence</hi> had contracted no <hi>malice,</hi> and in whom concenter'd not only the title of the <hi>Norman,</hi> but alſo of the Royal <hi>Saxon</hi> blood; for he was Grandſon to <hi>Maud</hi> the Empreſs, Daughter and Heir of <hi>Henry</hi> the Firſt, by <hi>Maud</hi> the Daughter of <hi>Malcolm</hi> King of Scots, and <hi>Margaret</hi> his Wife, Siſter and Heir of <hi>Edgar Atheling,</hi> true Heir to the Confeſſor.</p>
+            <p>The Engliſh, who <hi>naturally</hi> abhor wrong, and without a ſtrong <hi>byas,</hi> are juſt loyal, forthwith deſert the Forreigner, and ad<g ref="char:EOLhyphen"/>here
+<pb n="9" facs="tcp:41109:6"/>to the Royal Iſſue; The French Prince affrighted at the <hi>fer<g ref="char:EOLhyphen"/>vour</hi> of that generous ſpirit, ſubmits to terms, and departs the Land.</p>
+            <p>King <hi>Henry</hi> the Third, the Infant, is Crown'd, and in the Ninth year of his Reign, being the Twentieth of his Age, upon payment of a Fifteen of all mens movables, <hi>Cap.</hi> 37. in full Parliament, he gives and grants this <hi>Magna Charta,</hi> whereof my Statute is a Chapter.</p>
+            <p>Afterwards pretending Infancy, he declares this Charter <hi>Null,</hi> which revives the Barons War, and iſſues ſtreams of Engliſh blood.</p>
+            <p>Yet here give me leave to note what the French <hi>Comines</hi> gives for a Maxim, That no Subject ever <hi>drew Sword</hi> againſt his <hi>Prince,</hi> but though his deſign prevail'd, he himſelf <hi>ſuffer'd</hi> in <hi>Life, Estate,</hi> or <hi>Conſcience;</hi> And of this, gives evidence, That <hi>Pardon</hi> for which the Lords Petition this King <hi>Henry</hi> in <hi>Kenelworth,</hi> the ſame Caſtle where they had impriſoned him; <hi>Dictum de Kenelworth. H.</hi> 3.</p>
+            <p>Yet the reſult in the long run was the re-eſtabliſhment of this Charter, in the Twenty fifth of his Reign, and in the preſence of his Son the brave King <hi>Edw.</hi> 1. <hi>Mag. ch.</hi> 37. and with ſuch direful Ceremonies as were then <hi>Authentick</hi> by way of curſing and execrations to the Infringers, as may aſtoniſh the Reader, if he peruſes <hi>Matthew Paris, An.</hi> 1253. And reflects as well on ſuch as violate the Kings Prerogative, as Intrenchers upon the Subjects liberty.</p>
+            <p>By ſome as ignorant as cenſorious, our Laws are ſcandal'd as in<g ref="char:EOLhyphen"/>troduced by <hi>Conqueſt;</hi> whereas in truth this Charter is purely decla<g ref="char:EOLhyphen"/>ratory of the old <hi>Saxon</hi> as aforeſaid; ſo concludes St <hi>German. Fol.</hi> 12.</p>
+            <p>And in thoſe captious points of <hi>Tenures, Wardſhips,</hi> and <hi>Pur<g ref="char:EOLhyphen"/>veyance,</hi> I can demonſtrate footſteps thereof before King <hi>William,</hi> though poſſibly by him and his Iſſue improved with the honour of <hi>Kinghthood,</hi> and <hi>Knights ſervice.</hi>
+            </p>
+            <p>But were the quarrel at all a grievance, we have now a Prince, who derives his Pedigree not only from the <hi>Norman,</hi> but more ancient and direct, from the <hi>Royal Saxon</hi> Line, as well by Queen <hi>Marga<g ref="char:EOLhyphen"/>ret,</hi> Siſter and Heir of <hi>Edgar</hi> in the Scotch Deſcent, as from <hi>Maud</hi> her Daughter Queen to King <hi>Henry</hi> the Firſt in the Engliſh.</p>
+            <p>And for thoſe pretended <hi>Norman</hi> innovations of Tenures, Ward<g ref="char:EOLhyphen"/>ſhips, and Purveyance, he has been pleaſed to unhatch theſe Roy<g ref="char:EOLhyphen"/>alties
+<pb n="10" facs="tcp:41109:7"/>from his Crown upon the Petition of the Parliament, which is a Court <hi>de Teſgrand honour &amp; juſtice de que nul doit imaginer choſe diſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nourable,</hi> as we are taught, in <hi>Plo.</hi> 388. In whoſe wiſ<g ref="char:EOLhyphen"/>doms it becomes people to acquieſce, as their own choice and Repre<g ref="char:EOLhyphen"/>ſentatives, or to renounce <hi>all Rule,</hi> but <hi>their own.</hi>
+            </p>
+            <p>Yet may it with all ſubmiſſion be aver'd, Thoſe Royalties might poſſibly have been ſo refin'd to the <hi>Saxon</hi> Model, as would have given an <hi>ornament</hi> and luſtre to the Crown, yet no <hi>preſſure</hi> to the Subject.</p>
+            <p>But be this Statute <hi>de novo,</hi> or declaratory, were it at firſt a Charter only, or an Act, the matter is now without diſpute, ſince the ſame King, and after him his Son King <hi>Edward,</hi> a warlike Prince, and our <hi>Juſtinian,</hi> 25. <hi>Ed.</hi> 1. in his full age and glory enacted it to be allowed as <hi>Common Law,</hi> for ſo are the words; nay, that it ſhould be read twice a year in all Cathedrals, <hi>ch.</hi> 2. as the place where by the popes intereſt they were then moſt obſtructed: And his Royal Succeſſors now <hi>Thirty</hi> and <hi>three</hi> times have confirm'd it by Acts of Parliament; Nay, we have an <hi>Act</hi> that declares all <hi>Acts void,</hi> that are againſt it: But <hi>leges poſteriores priores ab<g ref="char:EOLhyphen"/>rogant.</hi>
+            </p>
+            <p>So that, what at the firſt erecting might be a <hi>Charter,</hi> is become a <hi>Statute,</hi> and ſo St. <hi>German</hi> terms it, and ſo the Act of 5. <hi>Ed.</hi> 3. <hi>Cap.</hi> 8. And in pleadings, what more uſual, than to lay it <hi>Contra formam Statuti,</hi> in an Action brought upon this Law?</p>
+            <p>A Statute then it is, and therefore not leſs proper for a Reading, than that of <hi>Treaſons,</hi> 25. <hi>Ed.</hi> 3. which was but declaratory of the old Law.</p>
+            <p>The old Statutes, ſayes <hi>Ch. Juſtice Cook, Preface to the 8th. Rep.</hi> are the <hi>Text</hi> of the Common Law; the Records and Reports are but <hi>Commentaries</hi> thereupon.</p>
+            <p>And if ſo, then this Law, and this Chapter chiefly, which is the <hi>Jewel</hi> in the <hi>Ring,</hi> is the foundation of the whole, the reſt but ſtructures built upon it.</p>
+            <p>This the <hi>baſe,</hi> thoſe the <hi>deſcant.</hi>
+            </p>
+            <p>And now Gentleman, let us conſider what ſort of <hi>liberty</hi> is it, that a <hi>liber homo,</hi> a man of Reaſon can deſign, which is not ſecur'd him by this Statute!</p>
+            <pb n="11" facs="tcp:41109:7"/>
+            <p n="1">1. Deſires he to have his <hi>perſon</hi> free? <hi>Nullus capiatur vel impri<g ref="char:EOLhyphen"/>ſon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur.</hi>
+            </p>
+            <p n="2">2 Deſires he peace in the <hi>poſſeſſion</hi> of his Land? <hi>Nullus diſſeiſe<g ref="char:EOLhyphen"/>tur de libero tenemento.</hi>
+            </p>
+            <p n="3">3. Would he not have his <hi>Franchiſes</hi> encroach'd? <hi>Nullus diſſei<g ref="char:EOLhyphen"/>ſetur de libertatibus.</hi>
+            </p>
+            <p n="4">4. Favours he the old <hi>Cuſtomes</hi> which he has been bred in? <hi>Nul<g ref="char:EOLhyphen"/>lus diſſeiſetur de liberis conſuetudinibus.</hi>
+            </p>
+            <p n="5">5. Deſires he to live in the <hi>protection</hi> of the Law? <hi>Nullus utlag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur.</hi>
+            </p>
+            <p n="6">6. Delights he in his old equaintance, and <hi>Country</hi> ir? <hi>Nullus exul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur.</hi>
+            </p>
+            <p n="7">7. Would be not be <hi>oppreſs'd</hi> by his potent neighbour? <hi>Nullus aliquo modo deſtruatur.</hi>
+            </p>
+            <p n="8">8. Would be not be <hi>condemned</hi> before he be heard, nor chaſ is'd before he be legally condemned? <hi>Nec ſuper eum ibimus, nec ſuper eum mittimus.</hi>
+            </p>
+            <p n="9">9. Would he not be judged <hi>at will,</hi> nor tryed but by his <hi>Neigh<g ref="char:EOLhyphen"/>bourhood,</hi> and the <hi>Law?</hi> why none of theſe, or other grievance can ſurprize him. <hi>Niſi per judicium parium vel per legem terrae.</hi>
+            </p>
+            <p n="10">10. Laſtly, Would he have <hi>right</hi> done him, and that without <hi>de<g ref="char:EOLhyphen"/>lay, ſine prece, ſine precio. Nulli vendemus, nulli negabimus, aut defe<g ref="char:EOLhyphen"/>remus juſtitiam vel rectum.</hi>
+            </p>
+            <p>Loe here we have a Law for <hi>property</hi> in our Goods, for <hi>title</hi> to our Lands, for <hi>liberty</hi> to our perſons, for <hi>ſafety</hi> to our lives; In gene<g ref="char:EOLhyphen"/>ral, as my Lord <hi>Dyer</hi> notes, <hi>fol.</hi> 104. here's a remedy for <hi>every</hi> wrong that is, and a prevention for <hi>every wrong</hi> that may be: for no man ſhall ſuffer till he be <hi>condemned;</hi> none condemned, but by a legal <hi>trial;</hi> and none tryed, but is to be admitted to his juſt <hi>defence.</hi>
+            </p>
+            <p>If a Subject of <hi>England</hi> be not <hi>liber,</hi> who then is free? How is it, our <hi>intereſt</hi> as well as <hi>duty</hi> to ſupport the Royal Government, which ſhaken, leaves us <hi>free</hi> to naught but the <hi>luſts</hi> of men? How are their contrivances to be abhorr'd, who deſign, under a <hi>specious</hi> fallacy, to erect their own <hi>greatneſſe</hi> and <hi>revenge,</hi> on the hazard of <hi>our lives</hi> and <hi>ſouls!</hi>
+            </p>
+            <p>What I have enforc'd in relation to <hi>Kingſhip,</hi> I ſuppoſe is <hi>cohaerent,</hi> and not <hi>ſtrain'd</hi> or <hi>impertinent</hi> to this occaſion, and indeed no more than I (give me leave to ſay not unſeaſonably) publiſht before the Kings return, which may acquit me of <hi>flattery</hi> or <hi>deſign.</hi> There re<g ref="char:EOLhyphen"/>mains onely one ſcruple, which may ſtick with ſome that are pre-poſ<g ref="char:EOLhyphen"/>ſeſs'd, and that is, <hi>An acknowledgement that our Laws are excellent,
+<pb n="12" facs="tcp:41109:8"/>but they have been often violated, and are apt to be obſtructed in the ex<g ref="char:EOLhyphen"/>ecution.</hi>
+            </p>
+            <p>For anſwer, know, that while we are <hi>here,</hi> becauſe <hi>men,</hi> we are ſubject to <hi>infirmity;</hi> nor is it poſſible to reap the more <hi>general</hi> fruit of the beſt eſtabliſht policy, unleſſe by compact we ſubject our ſelves to ſome <hi>poſſible</hi> inconveniences.</p>
+            <p>Accidents and the artifices of men, are ſo <hi>various</hi> and <hi>incertain,</hi> that no Government is, was, or ever can be ſo exact, (no, not that <hi>
+                  <g ref="char:V">Ʋ</g>topian</hi> device, which Mr. <hi>Wren</hi> ſo well aſſerted) as can ſecure againſt all <hi>ca<g ref="char:EOLhyphen"/>ſual</hi> emergents and miſchiefs.</p>
+            <p>Governments therefore are beſt weighed by <hi>compariſons;</hi> and comparing the royal frame, with that of our <hi>late</hi> Model, which is the <hi>beloved</hi> of our Statiſts, 'tis eaſily demonſtrated, that Subjects are much more incident to oppreſſion under <hi>that</hi> than <hi>this.</hi>
+            </p>
+            <p>In the Royal frame, the Houſe of <hi>Commons</hi> are in a ſort the <hi>Tri<g ref="char:EOLhyphen"/>bunes</hi> of the Subjects liberty, and it has often interpos'd <hi>humbly,</hi> yet with <hi>ſucceſs.</hi> Now ſhall that <hi>Houſe</hi> (we know when it was) become our <hi>Tyrants?</hi> To whom ſhall we <hi>appeal</hi> in caſe of grievance? 'Tis a change but fatal to the <hi>ſheep,</hi> when the Dog that guards them be<g ref="char:EOLhyphen"/>comes the Wolf; when ſuch (as in Kingſhip) are entruſted only to <hi>conſent</hi> that the <hi>Purſe</hi> be open'd, ſhall (as then) <hi>put in</hi> their hands to diſpoſe and pay, and <hi>themſelves</hi> only to account unto <hi>themſelves.</hi>
+            </p>
+            <p>'Tis a wound in the very <hi>heart</hi> of Liberty, and the leſs curable, in that it is driven by a <hi>knot</hi> of hands, a <hi>quarry</hi> of Soveraigns ſupporting one another like <hi>ſtones</hi> in an <hi>Arch;</hi> every of whoſe dependants acts the Prince, and fortifies a <hi>ſucceſſive</hi> violation.</p>
+            <p>Whereas a Prince is but <hi>one,</hi> circumſcrib'd by a <hi>known</hi> Law, and <hi>apt</hi> inſtruments are not lightly rais'd, the terrour of a <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> being too exemplary; however though <hi>Rex</hi> the <hi>King</hi> dies not, and his Soveraignty cannot be divided from <hi>himſelf,</hi> yet his <hi>perſon</hi> is mortal, and his poſterity not ſo active, or more indulgent, makes amends.</p>
+            <p>Upon this account it is, that ever ſince the Conqueſt at the long run, no innovation had ever happened, but prerogative has been <hi>prun'd</hi> (and perhaps too haſtily) in the branch thereof, which let in the op<g ref="char:EOLhyphen"/>portunity. Search our <hi>Statutes,</hi> and ſo you will find it.</p>
+            <p>I might inſtance the excellency of this Government, from the <hi>ſo<g ref="char:EOLhyphen"/>lemn</hi> and <hi>profound</hi> order that we have in framing <hi>new,</hi> in revoking or altering <hi>old</hi> Laws, which like Gold, muſt be <hi>ſeven</hi> times refin'd before they are in force.</p>
+            <pb n="13" facs="tcp:41109:8"/>
+            <p>In that other fiction, how haſtily upon every <hi>new light</hi> did they make Laws, even as boys do Squibs and Crackers, and as laſting; without a ballance, or other body, maturely to debate and ripen!</p>
+            <p>Which Laws, being <hi>abſolute</hi> and without <hi>controul,</hi> may be preſum'd to <hi>bias</hi> towards their private intereſts, though not by an exemption of the <hi>Purſe,</hi> for that were too ſcandalous, yet by the invention or erecting of a <hi>new Office,</hi> or employment, which ſufficiently rep its the payment.</p>
+            <p>I might alſo inſtance in their ſevere and <hi>arbitrary</hi> impriſonments, and thoſe without <hi>hearing</hi> or <hi>appeal;</hi> and often inflicted at the will or their inferiour dependants in the Country, which (though I have too often felt) yet as to what was ſo enforc'd by thoſe perſons that were own'd as the <hi>Supreme Authority,</hi> (admitting it legal) I cannot rati<g ref="char:EOLhyphen"/>onally condemn: for no <hi>Kingdom</hi> or <hi>State</hi> can ſtand long unſhaken, unleſſe there be in the <hi>ſupreme Magiſtrate</hi> and <hi>Council,</hi> a radical and inhaerent right, by power not altogether <hi>regular,</hi> to obviate plottings and ſurprize.</p>
+            <p>Otherwiſe, while it ſtays the formalities of <hi>Law,</hi> the conſpiracy may grow lawleſſe, <hi>too strong</hi> to be prevented by it: And though ſome that are <hi>innocent,</hi> may ſuffer upon an undue <hi>ſuspition,</hi> yet <hi>melius pereat unus quam unitas,</hi> better is it that <hi>one</hi> innocently ſuffer a <hi>pri<g ref="char:EOLhyphen"/>vate</hi> and temporay miſchief, than that we run the hazard of a <hi>publick</hi> inconvenience.</p>
+            <p>With this, that it ſubjects the diſquition to the <hi>forms</hi> of Law, when it may be <hi>ſafe</hi> and <hi>open,</hi> and with this, that it parts not this authority from the <hi>Soveraign</hi> and his <hi>Council;</hi> and ſo ſee we it <hi>now</hi> executed, and not <hi>unproſperouſly</hi> warranted by the Law of <hi>Nature,</hi> ſelf-preſer<g ref="char:EOLhyphen"/>vation, to which <hi>Lex terrae</hi> cannot be contrary.</p>
+            <p>Whereas in thoſe other days every dependant acted his <hi>paſſion,</hi> with this <hi>power,</hi> and the trial we had was by a <hi>new red Court,</hi> where the <hi>cull'd</hi> perſon were in a ſort, <hi>Parties, Judge,</hi> and <hi>Juries,</hi> but no <hi>challenge,</hi> no <hi>pares,</hi> and I may ſwear they had <hi>none.</hi>
+            </p>
+            <p>
+               <hi>Juſtitia firmat ſolium;</hi> which King <hi>James</hi> well underſtood, when he publiſh'd, That for a King of <hi>England</hi> to diſcountenance the <hi>Com<g ref="char:EOLhyphen"/>mon Law,</hi> was to deſert his <hi>Crown;</hi> all perſons are preſum'd to en<g ref="char:EOLhyphen"/>deavour that which is for their <hi>advantage;</hi> Certainly then the Prince is ill advis'd, who ruines the <hi>Law,</hi> which is his chief <hi>ſupport;</hi> If for no other cauſe, yet for this, we have no cauſe to <hi>fear.</hi>
+            </p>
+            <p>However, better were it to <hi>time</hi> out a temporary evil, as we do ſhowers in harveſt, than engage in that <hi>publick</hi> hazard, which attends an <hi>undue</hi> remedy.</p>
+            <pb n="14" facs="tcp:41109:9"/>
+            <p>The Arms of Subjects (even as beſt for them) ſhould be <hi>preces &amp; lachrymae,</hi> and thoſe at the end will prevail, when it is grown to be the <hi>Genius</hi> of the people; But, <hi>Si non fecerit, ſufficit <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i ad poenam,</hi> ſays <hi>Bracton, quod Dominum habet ultorem.</hi> He that has faith, will ſtay Gods <hi>time</hi> for <hi>payment;</hi> he that has none, may take his own <hi>time,</hi> and poſſibly be <hi>paid</hi> himſelf.</p>
+            <p>Every word in this Statute has its weight, and I might aptly diſſect it into as many parts as words; For method I ſhall propoſe ten par<g ref="char:EOLhyphen"/>ticulars, and each of them an adaequate ſubject for a reading.</p>
+            <p>
+               <list>
+                  <head>Within this Statute.</head>
+                  <item>1. Who is the <hi>Liber homo</hi> intended.</item>
+                  <item>2. What ſhall be an Impriſonment.</item>
+                  <item>3. What is a Diſſeiſin of Franktenement.</item>
+                  <item>4. What is a Diſſeiſin of Liberties.</item>
+                  <item>5. What is a Diſſeiſin of free Cuſtomes.</item>
+                  <item>6. What is an Utlagury, exile or deſtruction.</item>
+                  <item>7. What ſhall be ſaid to be a paſſing or ſitting upon a man.</item>
+                  <item>8. What ſhall be call'd a legal judgement of Peers.</item>
+                  <item>9. What it is that is call'd the Law of the Land.</item>
+                  <item>10. What ſhall be ſaid to be a ſelling, denying, or deferring of Juſtice.</item>
+               </list>
+            </p>
+            <p>Upon theſe diviſions I ſhall proceed, as far as the time allotted me will permit; however, I ſhall contrive to give you ſomewhat of my conceptions upon every part; and herein I ſhall beg your patience and attention, and poſſibly may make you ſome <hi>amends,</hi> by being <hi>brief</hi> and <hi>plain.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Pag 3 line 17. read <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. Ibid</hi> line 24. for <hi>Hazard,</hi> read <hi>Hazards<g ref="char:punc">▪</g>
+               </hi> Pag. 4. line 21. for <hi>o h<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>,</hi> read <hi>others. Ibid</hi> line <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi> for <hi>Lords Spi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itual, Lords Tempo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ral, <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d,</hi> read <hi>a Houſe of Lords, and a Houſe of.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>More of this Subject may be read, in a Diſcourſe publiſh'd by the <hi>Reader,</hi> before the Kings Return, and Printed by us,</p>
+            <closer>
+               <signed>G. B. and T. C.</signed>
+            </closer>
+            <pb facs="tcp:41109:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
